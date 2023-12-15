@@ -25,8 +25,10 @@ The importance of each feature in predicting car prices is visualized using a ba
 The actual vs. predicted selling prices are visualized to assess how well the model predictions align with the actual prices.
 
 # How to Use
-Clone the repository: git clone https://github.com/your-username/car-price-prediction.git
+Clone the repository: git clone https://github.com/JoelFred20/oibsip_taskno3.git
+
 Open the Jupyter notebook in your preferred environment.
+
 Run each cell sequentially to observe the step-by-step analysis and predictions.
 
 
